@@ -39,7 +39,7 @@ The Tableau dashboard provides interactive insights into the key findings mentio
 - **Top Sales Companies** – Provided more details about the top companies with the highest sales.
 - **GDP vs. Corporate Sales** – Compared national GDPs with company sales.
 
-### Key Findings
+   ### Key Findings
 - **Regional Dominance** – East Asia & Pacific and North America have the most Forbes-listed companies.
 - **Market Value vs. Profits**
   - High market value does not mean high profits.
