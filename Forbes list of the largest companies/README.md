@@ -1,4 +1,5 @@
-## Project Objectives
+# Forbes Top Companies (2017-2024) – Data Analysis Insights 🚀
+Project Objectives
 This project aims to:
 - Analyze the top Forbes-listed companies from 2017 to 2024.
 - Identify trends in profitability, market value, sales, and assets.
