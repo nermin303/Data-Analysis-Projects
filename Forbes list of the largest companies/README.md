@@ -1,5 +1,5 @@
 # Forbes Top Companies (2017-2024) – Data Analysis Insights 🚀
-Project Objectives
+## Project Objectives
 This project aims to:
 - Analyze the top Forbes-listed companies from 2017 to 2024.
 - Identify trends in profitability, market value, sales, and assets.
@@ -29,7 +29,7 @@ The Tableau dashboard provides interactive insights into the key findings mentio
    - Focuses on companies with the highest sales performance.
    - Allows deeper insights into corporate giants and their annual rankings.
   
-   ## Key Insights
+   ### Key Insights
 - **Top & Bottom Performers** – Identified the most profitable and least profitable companies.
 - **Market Leaders** – Highlighted the top companies by market value.
 - **Market Value vs. Profit** – Analyzed the relationship between them.
@@ -39,7 +39,7 @@ The Tableau dashboard provides interactive insights into the key findings mentio
 - **Top Sales Companies** – Provided more details about the top companies with the highest sales.
 - **GDP vs. Corporate Sales** – Compared national GDPs with company sales.
 
-## Key Findings
+### Key Findings
 - **Regional Dominance** – East Asia & Pacific and North America have the most Forbes-listed companies.
 - **Market Value vs. Profits**
   - High market value does not mean high profits.
